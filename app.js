@@ -54,3 +54,4 @@ function getResult() {
   }
   resultDisplay.innerHTML = result;
 }
+// iyi oyunlar :))
